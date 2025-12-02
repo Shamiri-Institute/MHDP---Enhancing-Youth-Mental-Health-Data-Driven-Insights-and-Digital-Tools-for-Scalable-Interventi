@@ -38,6 +38,3 @@ This project is part of the **Mental Health Data Prize - Africa**, an initiative
 *   **Data Processing:** []
 *   **Visualization:** []
 *   **Frameworks:** []
-
-eports/            # Generated analysis reports and figures
-└── README.md           # Project documentation
