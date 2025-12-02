@@ -2,8 +2,6 @@
 
 # Enhancing Youth Mental Health: Data-Driven Insights and Digital Tools for Scalable Interventions
 
-![Project Banner](path/to/your/image.png)
-<!-- You can upload the image you provided to your repo and link it here -->
 
 ## 📖 Overview
 
