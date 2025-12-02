@@ -34,7 +34,7 @@ This project is part of the **Mental Health Data Prize - Africa**, an initiative
 
 ## 🛠 Tech Stack
 
-*   **Languages:** ]
-*   **Data Processing:** []
-*   **Visualization:** []
-*   **Frameworks:** []
+*   **Languages:** -
+*   **Data Processing:** -
+*   **Visualization:** - 
+*   **Frameworks:** - 
