@@ -14,7 +14,7 @@ This project is part of the **Mental Health Data Prize - Africa**, an initiative
 **Organized and Supported by:**
 *   **[APHRC](https://aphrc.org/)** (African Population and Health Research Center)
 *   **[Wellcome](https://wellcome.org/)**
-*   **[Shamiri Institute](https://www.shamiri.institute/)**/
+*   **[Shamiri Institute](https://www.shamiri.institute/)**
 
 ## Contributors
 
