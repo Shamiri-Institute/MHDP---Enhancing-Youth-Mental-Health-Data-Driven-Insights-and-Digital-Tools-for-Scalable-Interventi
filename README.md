@@ -1,6 +1,4 @@
-# MHDP---Enhancing-Youth-Mental-Health-Data-Driven-Insights-and-Digital-Tools-for-Scalable-Interventi
-
-# Enhancing Youth Mental Health: Data-Driven Insights and Digital Tools for Scalable Interventions
+# MHDP - Enhancing Youth Mental Health: Data-Driven Insights and Digital Tools for Scalable Interventions
 
 
 ## 📖 Overview
