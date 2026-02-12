@@ -12,7 +12,7 @@ The primary objective of this project is to leverage data science and digital te
 This project is part of the **Mental Health Data Prize - Africa**, an initiative focusing on transforming lives in Africa through research.
 
 **Organized and Supported by:**
-*   **[APHRC](https://aphrc.org/)** (African Population and Health Research Center)
+*   **[APHRC](https://aphrc.org/)**
 *   **[Wellcome](https://wellcome.org/)**
 *   **[Shamiri Institute](https://www.shamiri.institute/)**
 
