@@ -23,16 +23,15 @@ This project is part of the **Mental Health Data Prize - Africa**, an initiative
 *   **Rachael Kilonzo**
 *   **Nickson Mugambi**
 *   **Faith Kamau**
-
+ 
 ## Project Goals
 
 1.  **Data-Driven Insights:** Utilizing mental health datasets to identify patterns, risk factors, and opportunities for intervention.
 2.  **Digital Tools:** Developing or analyzing digital platforms that facilitate access to mental health support.
 3.  **Scalability:** Ensuring solutions can be effectively deployed to large populations across the region.
 
-## Tech Stack
+## Analysis
 
-*   **Languages:** -
-*   **Data Processing:** -
-*   **Visualization:** - 
-*   **Frameworks:** - 
+*   **Languages:** - R
+*   **Dataset:** - https://osf.io/4c3sk/files/tq7pr
+*   **Analysis Script:** - https://osf.io/4c3sk/files/j7ywt
